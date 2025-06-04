@@ -6,6 +6,6 @@
 version: 2
 updates:
   - package-ecosystem: "jquery" # See documentation for possible values
-    directory: "/vendor/jquery" # Location of package manifests
+    directory: "/vendor/jquery/jquery.min.js" # Location of package manifests
     schedule:
       interval: "weekly"
